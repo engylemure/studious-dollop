@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+  "reverse_string",
+  "is_palindrome",
+  "two_sum",
+  "length_of_longest_substring",
+  "top_k_frequent",
+  "max_vowels_on_k_substring"
+]
